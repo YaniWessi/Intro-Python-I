@@ -15,8 +15,6 @@ y = "7"
 
 # YOUR CODE HERE
 
-int(y)
-
 print(x + int(y))
 
 
