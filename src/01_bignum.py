@@ -3,7 +3,7 @@
 
 # YOUR CODE HERE
 
-num = 2
+num = 3
 
 num2 = 65536
 
